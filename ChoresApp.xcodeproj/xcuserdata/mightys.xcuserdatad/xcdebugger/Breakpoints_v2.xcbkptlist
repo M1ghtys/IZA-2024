@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "51FF23D7-6E34-4DAA-A3A4-1AA40AE0B4DE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4238D08E-4F15-4E70-8235-1B7F6A6591EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/DataContext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "addRoom(name:roomType:user:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4238D08E-4F15-4E70-8235-1B7F6A6591EF - 91763c60b624d09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChoresApp.DataSource.fetchRoomsForHouse(house: ChoresApp.House) -&gt; Swift.Array&lt;ChoresApp.Room&gt;"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/DataContext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "4238D08E-4F15-4E70-8235-1B7F6A6591EF - 8a1f46ef10821487"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChoresApp.DataSource.addRoom(name: Swift.String, roomType: ChoresApp.RoomType, user: ChoresApp.User) -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/DataContext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "952">
+               </Location>
+               <Location
+                  uuid = "4238D08E-4F15-4E70-8235-1B7F6A6591EF - 8a1f46ef10821487"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChoresApp.DataSource.addRoom(name: Swift.String, roomType: ChoresApp.RoomType, user: ChoresApp.User) -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/DataContext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "748">
+               </Location>
+               <Location
+                  uuid = "4238D08E-4F15-4E70-8235-1B7F6A6591EF - 14278c782316bac4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChoresApp.DataSource.addRoom(name: Swift.String, roomType: Swift.String, user: ChoresApp.User) -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/DataContext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "792">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E87446D7-60D6-4A91-8527-9528A9571635"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/ViewModels/RoomSelectionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "loadRooms(house:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46E21DAE-9541-4C4E-8807-6CA16DC641D3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/DataContext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "198"
+            endingLineNumber = "198"
+            landmarkName = "fetchRoomsForHouse(house:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "46E21DAE-9541-4C4E-8807-6CA16DC641D3 - 91763c60b624ca4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChoresApp.DataSource.fetchRoomsForHouse(house: ChoresApp.House) -&gt; Swift.Array&lt;ChoresApp.Room&gt;"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/DataContext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "46E21DAE-9541-4C4E-8807-6CA16DC641D3 - b75dc9f5b12bf6b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ChoresApp.Room) -&gt; Swift.Bool in ChoresApp.DataSource.fetchRoomsForHouse(house: ChoresApp.House) -&gt; Swift.Array&lt;ChoresApp.Room&gt;"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/DataContext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "46E21DAE-9541-4C4E-8807-6CA16DC641D3 - 91763c60b624c01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChoresApp.DataSource.fetchRoomsForHouse(house: ChoresApp.House) -&gt; Swift.Array&lt;ChoresApp.Room&gt;"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/DataContext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "46E21DAE-9541-4C4E-8807-6CA16DC641D3 - b75dc9f5b12bf612"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ChoresApp.Room) -&gt; Swift.Bool in ChoresApp.DataSource.fetchRoomsForHouse(house: ChoresApp.House) -&gt; Swift.Array&lt;ChoresApp.Room&gt;"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/DataContext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "46E21DAE-9541-4C4E-8807-6CA16DC641D3 - 91763c60b624f19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChoresApp.DataSource.fetchRoomsForHouse(house: ChoresApp.House) -&gt; Swift.Array&lt;ChoresApp.Room&gt;"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/DataContext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "46E21DAE-9541-4C4E-8807-6CA16DC641D3 - b75dc9f5b12bf50a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ChoresApp.Room) -&gt; Swift.Bool in ChoresApp.DataSource.fetchRoomsForHouse(house: ChoresApp.House) -&gt; Swift.Array&lt;ChoresApp.Room&gt;"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/DataContext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85095C32-2B7A-466B-BEFB-1FA4AC0BE91E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/DataContext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "200"
+            endingLineNumber = "200"
+            landmarkName = "fetchRoomsForHouse(house:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "85095C32-2B7A-466B-BEFB-1FA4AC0BE91E - 91763c60b624cfa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChoresApp.DataSource.fetchRoomsForHouse(house: ChoresApp.House) -&gt; Swift.Array&lt;ChoresApp.Room&gt;"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/DataContext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "85095C32-2B7A-466B-BEFB-1FA4AC0BE91E - 91763c60b624c47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChoresApp.DataSource.fetchRoomsForHouse(house: ChoresApp.House) -&gt; Swift.Array&lt;ChoresApp.Room&gt;"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/DataContext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "85095C32-2B7A-466B-BEFB-1FA4AC0BE91E - 91763c60b624f5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChoresApp.DataSource.fetchRoomsForHouse(house: ChoresApp.House) -&gt; Swift.Array&lt;ChoresApp.Room&gt;"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/DataContext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "524">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5422735-6D2E-4655-BB36-249A57EC7388"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/DataContext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "addRoom(name:roomType:user:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB812934-4570-454E-823B-44887B91454A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/DataContext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "addRoom(name:roomType:user:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2626D49-BA03-4739-AE95-96BB101EDA66"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/ViewModels/RoomUpdateViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "addRoom(user:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CB63D78-17A3-4D93-A6E5-B66C7EED97E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/DataContext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "addRoom(name:roomType:user:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62399179-2B50-49AF-8FB3-CA266B4A22E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/Views/HouseViews/HouseListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C609D8D-BF3E-4AC7-919A-CC296163BFC3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/ViewModels/HouseListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "addUserToHouse(user:house:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BB4C7C6-4AC1-4D51-ABF9-EB2068E27305"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/DataContext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
+            landmarkName = "fetchRoomsForHouse(house:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4303ED12-35A8-4ABE-B931-49D6C5DC1425"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/ViewModels/Chore/ChoreListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getChoresForRoom()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6425F5AC-D34F-4D7C-80B6-AA0AC68BCDEF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/ViewModels/Chore/ChoreDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init(dataSource:chore:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC545A6E-2860-4775-9563-914238501DD5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/Views/ChoreViews/ChoreListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "statusConvertor(chore:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9390E3A2-64DF-4273-8E96-F9185630EFEF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/ViewModels/Chore/ChoreListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "addRoomToUser(user:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9390E3A2-64DF-4273-8E96-F9185630EFEF - 17a037afd0ab489f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChoresApp.ChoreListViewModel.removeUserFromRoom(user: ChoresApp.User) -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/ViewModels/Chore/ChoreListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "9390E3A2-64DF-4273-8E96-F9185630EFEF - e635907bfabaa7e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChoresApp.ChoreListViewModel.addRoomToUser(user: ChoresApp.User) -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/ViewModels/Chore/ChoreListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "308">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB70BDB4-1A96-458C-A5C7-0DCF873A8DC3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/ViewModels/Chore/ChoreListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "isUserInRoom(user:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23E33810-DDA6-4F9A-9A09-ED50CC43F06D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/ViewModels/Room/RoomSelectionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "loadRooms(house:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "23E33810-DDA6-4F9A-9A09-ED50CC43F06D - 86f8cdcae1d6deff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChoresApp.RoomSelectionViewModel.loadRooms(house: ChoresApp.House) -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/ViewModels/Room/RoomSelectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "23E33810-DDA6-4F9A-9A09-ED50CC43F06D - 86f8cdcae1d6de9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChoresApp.RoomSelectionViewModel.loadRooms(house: ChoresApp.House) -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/ViewModels/Room/RoomSelectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C2FFAB1-91BA-42CB-9262-3AFC425CC4F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/ViewModels/House/HouseUpdateViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "init(dataSource:house:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E4368A9-BC59-419D-BA33-76A6D11846C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/Views/HouseViews/HouseListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "7E4368A9-BC59-419D-BA33-76A6D11846C8 - 3ce6b16e5c6431c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;ChoresApp.HouseUpdateView, ChoresApp.HouseUpdateView&gt; in closure #3 (ChoresApp.ActionType&lt;ChoresApp.User&gt;) -&gt; SwiftUI.NavigationView&lt;SwiftUI._ConditionalContent&lt;ChoresApp.HouseUpdateView, ChoresApp.HouseUpdateView&gt;&gt; in ChoresApp.HouseListView.body.getter : some"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/Views/HouseViews/HouseListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "640">
+               </Location>
+               <Location
+                  uuid = "7E4368A9-BC59-419D-BA33-76A6D11846C8 - 3ce6b16e5c6431c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;ChoresApp.HouseUpdateView, ChoresApp.HouseUpdateView&gt; in closure #3 (ChoresApp.ActionType&lt;ChoresApp.User&gt;) -&gt; SwiftUI.NavigationView&lt;SwiftUI._ConditionalContent&lt;ChoresApp.HouseUpdateView, ChoresApp.HouseUpdateView&gt;&gt; in ChoresApp.HouseListView.body.getter : some"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/Views/HouseViews/HouseListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "540">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66F3CFBA-172E-4A75-8FEE-4D8A8D6E7A8C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/DataContext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "deleteHouse(house:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D9690CF-20F8-4CFD-8B45-CEE33F4EBCC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/ViewModels/Chore/ChoreListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "deleteRoom()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5D9690CF-20F8-4CFD-8B45-CEE33F4EBCC8 - 143fd4d734b54e73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ChoresApp.ChoreListViewModel.deleteRoom() async -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/ViewModels/Chore/ChoreListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "5D9690CF-20F8-4CFD-8B45-CEE33F4EBCC8 - 64f6f054b159f81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for ChoresApp.ChoreListViewModel.deleteRoom() async -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/ViewModels/Chore/ChoreListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "5D9690CF-20F8-4CFD-8B45-CEE33F4EBCC8 - aec4a59b2b4b896"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ChoresApp.ChoreListViewModel.deleteRoom() async -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/ViewModels/Chore/ChoreListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70F42B04-3D18-425C-99B6-4BB409954C56"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/ViewModels/Chore/ChoreDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "completeTask()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A64E2DA-B99F-4398-A8FD-47AAD4EB061B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/ViewModels/User/AddUserModalViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "addUser()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A64E2DA-B99F-4398-A8FD-47AAD4EB061B - 7d1abe417a9f7d63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChoresApp.AddUserModalViewModel.addUser() -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/ViewModels/User/AddUserModalViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "1A64E2DA-B99F-4398-A8FD-47AAD4EB061B - f09a60e36d004de1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChoresApp.AddUserModalViewModel.addUser() -&gt; Swift.Bool"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/ViewModels/User/AddUserModalViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "364">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABE6B312-BEE2-4AEA-94FE-56AB204D52A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/DataContext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "updateHouse(house:name:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1769D48-6D4D-4BC9-9208-7F1AB04A214B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/DataContext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "addHouse(name:user:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2DD31E7-3B45-4999-97E5-963AAD3CEBC6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/DataContext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "addHouse(name:user:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC8B7BD0-756E-4E6A-B98D-CA001BFD4A6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/DataContext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "addHouse(name:user:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DC8B7BD0-756E-4E6A-B98D-CA001BFD4A6F - 8fd883011c881327"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChoresApp.DataSource.addHouse(house: ChoresApp.House) throws -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/DataContext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "DC8B7BD0-756E-4E6A-B98D-CA001BFD4A6F - 6e4ef482eca1af07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ChoresApp.House) -&gt; Swift.Bool in ChoresApp.DataSource.addHouse(house: ChoresApp.House) throws -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/DataContext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDC6D5FD-F1D0-4F48-B95C-B9C075DB388A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/ViewModels/Chore/ChoreUpdateViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "addChore()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C214687-84E2-4F30-97F7-FFA4A8098356"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/ViewModels/Chore/ChoreUpdateViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "addChore()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F4793AD-6227-45D0-9C69-64BA71085F09"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/ViewModels/Chore/ChoreUpdateViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "addChore()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9E25A1F-7279-4CFD-9463-286F7D4B873C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/ViewModels/Chore/ChoreUpdateViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "addChore()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8BA4306D-643E-4A67-BFEA-4D1C522EFE15"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/ViewModels/Chore/ChoreListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "deleteChore(chore:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8BA4306D-643E-4A67-BFEA-4D1C522EFE15 - 79d49f6cfb470664"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ChoresApp.ChoreListViewModel.deleteChore(chore: ChoresApp.Chore) async -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/ViewModels/Chore/ChoreListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "8BA4306D-643E-4A67-BFEA-4D1C522EFE15 - e0e85f24b3be5d22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for ChoresApp.ChoreListViewModel.deleteChore(chore: ChoresApp.Chore) async -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/ViewModels/Chore/ChoreListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "8BA4306D-643E-4A67-BFEA-4D1C522EFE15 - 865500ff110e7a03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ChoresApp.ChoreListViewModel.deleteChore(chore: ChoresApp.Chore) async -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/ViewModels/Chore/ChoreListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F447AFAC-2EE1-49AD-8038-0413CB2F9B4D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/ViewModels/User/UserListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "loadUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1051E878-49A2-435E-A783-52FA6F80525F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/Views/RoomViews/RoomSelectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F88C4B0A-2F97-4640-9E07-E037777BBE4A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/DataContext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "219"
+            endingLineNumber = "219"
+            landmarkName = "addChore(name:desc:start:end:repeating:interval:intervalType:room:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F88C4B0A-2F97-4640-9E07-E037777BBE4A - a79508bf995b9aeb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChoresApp.DataSource.addChore(name: Swift.String, desc: Swift.Optional&lt;Swift.String&gt;, start: Foundation.Date, end: Swift.Optional&lt;Foundation.Date&gt;, repeating: Swift.Bool, interval: Swift.Optional&lt;Swift.Int&gt;, intervalType: Swift.Optional&lt;Swift.String&gt;, room: ChoresApp.Room) async throws -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/DataContext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "F88C4B0A-2F97-4640-9E07-E037777BBE4A - 792f7727942d6068"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for ChoresApp.DataSource.addChore(name: Swift.String, desc: Swift.Optional&lt;Swift.String&gt;, start: Foundation.Date, end: Swift.Optional&lt;Foundation.Date&gt;, repeating: Swift.Bool, interval: Swift.Optional&lt;Swift.Int&gt;, intervalType: Swift.Optional&lt;Swift.String&gt;, room: ChoresApp.Room) async throws -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/DataContext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "F88C4B0A-2F97-4640-9E07-E037777BBE4A - 101a67d294053d87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for ChoresApp.DataSource.addChore(name: Swift.String, desc: Swift.Optional&lt;Swift.String&gt;, start: Foundation.Date, end: Swift.Optional&lt;Foundation.Date&gt;, repeating: Swift.Bool, interval: Swift.Optional&lt;Swift.Int&gt;, intervalType: Swift.Optional&lt;Swift.String&gt;, room: ChoresApp.Room) async throws -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/DataContext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "F88C4B0A-2F97-4640-9E07-E037777BBE4A - 101a67d294053d87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for ChoresApp.DataSource.addChore(name: Swift.String, desc: Swift.Optional&lt;Swift.String&gt;, start: Foundation.Date, end: Swift.Optional&lt;Foundation.Date&gt;, repeating: Swift.Bool, interval: Swift.Optional&lt;Swift.Int&gt;, intervalType: Swift.Optional&lt;Swift.String&gt;, room: ChoresApp.Room) async throws -&gt; ()"
+                  moduleName = "ChoresApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mightys/Documents/choreApp/ChoresApp/ChoresApp/DataContext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206"
+                  offsetFromSymbolStart = "3724">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FE444D6-B7C4-4473-9D0A-162ECEE7A32F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/DataContext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
+            landmarkName = "addChore(name:desc:start:end:repeating:interval:intervalType:room:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2A4C509-BE84-48D8-9892-F4D626AC421C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/DataContext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "221"
+            endingLineNumber = "221"
+            landmarkName = "addChore(name:desc:start:end:repeating:interval:intervalType:room:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73862217-5A0F-45FA-A250-7936BA592461"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/DataContext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
+            landmarkName = "addChore(name:desc:start:end:repeating:interval:intervalType:room:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F136A67-5616-4DF0-85D2-0AA0C6FF4AC4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/Views/ChoreViews/ChoreListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF97C775-A960-4E21-AE07-A4CB72E36C82"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChoresApp/ViewModels/Chore/ChoreUpdateViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "addChore()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
